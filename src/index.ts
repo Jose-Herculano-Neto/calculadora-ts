@@ -3,7 +3,7 @@ import { Calculadora } from './Calculadora';
 
 const calcular = new Calculadora();
 
-function Menu(): void {
+function Menu(){
   console.log("Calculadora");
   console.log("1 - Somar");
   console.log("2 - Subtrair");
